@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Local environment
+.python-version
+.claude/
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML artifacts
+*.h5
+*.keras
+*.pkl
+*.pt
+*.pth
+*.onnx
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Data directories
+data/raw/
+data/processed/
+
+# OS files
+.DS_Store
